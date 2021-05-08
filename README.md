@@ -12,7 +12,7 @@ The data needed to run the model are saved in the Dataset folder, under the file
 
 You will need a local copy of the code in this repository. The easiest way to acquire this is to use `git` to clone the data locally. 
 ```
-git clone https://github.com/qasimnazir/Sepsis3-Prediciton-CSE6250-Final-Project-.git
+git clone https://github.com/qasimnazir/CSE6250_LSTM-based-Sepsis-Prediciton.git
 
 ```
 ## Identify the Sepsis-3 patients
