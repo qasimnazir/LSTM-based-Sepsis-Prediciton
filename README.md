@@ -12,7 +12,7 @@ The data needed to run the model are saved in the Dataset folder, under the file
 
 You will need a local copy of the code in this repository. The easiest way to acquire this is to use `git` to clone the data locally. 
 ```
-git clone https://github.gatech.edu/hlee873/CSE6250_Team11.git
+git clone https://github.com/qasimnazir/Sepsis3-Prediciton-CSE6250-Final-Project-.git
 
 ```
 ## Identify the Sepsis-3 patients
@@ -45,3 +45,8 @@ The results of the RNN model can be re-produced using the **feature_v1.csv** as 
 # Model Performance
 
 ![Confusion Matrix & AUC Curve](Model_Performance.PNG)
+
+# Team Members
+Hao Lee, Michael Hur, Qasim Nazir, David Wu
+
+Original Repo: https://github.gatech.edu/hlee873/CSE6250_Team11.git
