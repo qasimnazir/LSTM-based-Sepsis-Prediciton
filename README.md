@@ -1,6 +1,6 @@
-# CSE6250 Final Project
+# Final Project
 
-This is the code repository associated with the final project for [CSE6250 Spring 2021] (http://sunlab.org/teaching/cse6250/spring2021/). In this project, we focus on predicting sepsis, a medical condition where the immune system damages the body as a result of fighting infection. We introduce and replicate a Long Short-Term Memory (LSTM) neural network model that uses patient features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset for early identification and prediction of sepsis, as defined by Sepsis-3. Ultimately, this report highlights the approach and results for sepsis prediction.
+In this project, we focus on predicting sepsis, a medical condition where the immune system damages the body as a result of fighting infection. We introduce and replicate a Long Short-Term Memory (LSTM) neural network model that uses patient features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset for early identification and prediction of sepsis, as defined by Sepsis-3. Ultimately, this report highlights the approach and results for sepsis prediction.
 
 
 # Reproducing the above studies
@@ -12,7 +12,7 @@ The data needed to run the model are saved in the Dataset folder, under the file
 
 You will need a local copy of the code in this repository. The easiest way to acquire this is to use `git` to clone the data locally. 
 ```
-git clone https://github.com/qasimnazir/CSE6250_LSTM-based-Sepsis-Prediciton.git
+git clone https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton.git
 
 ```
 ## Identify the Sepsis-3 patients
